@@ -7,7 +7,7 @@
   gap: 100px;
 }
 
-.experiencia .subtitulo {
+.experiencia .subtitle {
   color: #e0e0e0;
 }
 
@@ -87,7 +87,7 @@
     grid-template-columns: 1fr;
     gap: 40px;
   }
-  .experiencia .subtitulo {
+  .experiencia .subtitle {
     color: #141414;
   }
   .experiencia-texto {

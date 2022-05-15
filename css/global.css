@@ -23,7 +23,7 @@ img {
   display: block;
 }
 
-.subtitulo {
+.subtitle {
   font-size: 8rem;
   line-height: 1;
   text-transform: uppercase;
@@ -32,7 +32,7 @@ img {
 }
 
 @media (max-width: 800px) {
-  .subtitulo {
+  .subtitle {
     font-size: 3rem;
     text-transform: capitalize;
     max-width: initial !important;
